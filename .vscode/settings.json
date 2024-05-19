@@ -1,0 +1,6 @@
+{
+    "json.schemas": [],
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.diagnosticSeverityOverrides": {},
+    "python.analysis.fixAll": []
+}
